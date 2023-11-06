@@ -1,4 +1,4 @@
-FROM codercom/code-server:4.11.0
+FROM codercom/code-server:4.17.1
 
 RUN sudo apt-get update
 RUN sudo apt-get install default-jdk -y
